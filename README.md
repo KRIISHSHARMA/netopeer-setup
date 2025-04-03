@@ -50,7 +50,7 @@ sudo make install
 
 ### Building and Installing netopeer
 
-- Clone the libnetopeer repository:
+- Clone the netopeer2 repository:
 
 ```
 git clone https://github.com/CESNET/netopeer2.git
